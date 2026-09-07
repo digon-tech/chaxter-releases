@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.10.0",
+      "version": "0.10.0",
+      "pub_date": "2026-09-07T16:31:47.624Z",
+      "notes": "notes/v0.10.0.md",
+      "summary": "Chaxter can now update itself, with the running version always in view and release notes in a new What's new section.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.9.2",
       "version": "0.9.2",
       "pub_date": "2026-09-06T14:59:59.385Z",
