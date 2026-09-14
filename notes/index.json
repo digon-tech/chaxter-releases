@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.11.0",
+      "version": "0.11.0",
+      "pub_date": "2026-09-14T21:58:21.251Z",
+      "notes": "notes/v0.11.0.md",
+      "summary": "You can now share a live browser page with a session and let the agent read and drive it.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.10.1",
       "version": "0.10.1",
       "pub_date": "2026-09-08T07:29:45.915Z",
