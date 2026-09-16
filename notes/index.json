@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.12.0",
+      "version": "0.12.0",
+      "pub_date": "2026-09-16T17:40:40.253Z",
+      "notes": "notes/v0.12.0.md",
+      "summary": "The sidebar is now a full session organizer with workspace groups, archive, trash and notes.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.11.0",
       "version": "0.11.0",
       "pub_date": "2026-09-14T21:58:21.251Z",
