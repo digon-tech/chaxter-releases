@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.13.0",
+      "version": "0.13.0",
+      "pub_date": "2026-09-25T15:13:21.836Z",
+      "notes": "notes/v0.13.0.md",
+      "summary": "Tool calls in the transcript now render as one stable card that opens on a spring and never collapses on its own.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.12.0",
       "version": "0.12.0",
       "pub_date": "2026-09-16T17:40:40.253Z",
