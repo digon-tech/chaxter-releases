@@ -4,11 +4,11 @@
     {
       "tag": "v0.14.0",
       "version": "0.14.0",
-      "pub_date": "2026-10-06T14:20:51.907Z",
+      "pub_date": "2026-10-06T14:20:04.000Z",
       "notes": "notes/v0.14.0.md",
-      "summary": "Maintenance and internal improvements.",
+      "summary": "Add MCP servers, skills and plugins once in the new Library and every agent can use them, with each agent's own ones listed and switchable.",
       "ai": false,
-      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+      "prompt_sha": ""
     },
     {
       "tag": "v0.13.0",
