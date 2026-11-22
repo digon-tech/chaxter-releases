@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.15.0",
+      "version": "0.15.0",
+      "pub_date": "2026-11-22T21:27:39.848Z",
+      "notes": "notes/v0.15.0.md",
+      "summary": "Chaxter now carries a task from its tracker issue through its pull request to a merge, on a new Dashboard and a page of its own.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.14.0",
       "version": "0.14.0",
       "pub_date": "2026-10-06T14:20:04.000Z",
