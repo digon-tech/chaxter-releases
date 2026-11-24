@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.16.1",
+      "version": "0.16.1",
+      "pub_date": "2026-11-24T07:34:53.963Z",
+      "notes": "notes/v0.16.1.md",
+      "summary": "Chaxter now ships an MCP bridge, off by default and unlocked with a one-time passcode, with a dock panel and top-bar badge for live calls.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.16.0",
       "version": "0.16.0",
       "pub_date": "2026-11-23T11:41:15.383Z",
