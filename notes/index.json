@@ -2,6 +2,15 @@
   "schema": 1,
   "releases": [
     {
+      "tag": "v0.17.1",
+      "version": "0.17.1",
+      "pub_date": "2026-11-27T21:12:21.426Z",
+      "notes": "notes/v0.17.1.md",
+      "summary": "The desktop app now restarts its background service on its own when it stops.",
+      "ai": true,
+      "prompt_sha": "5e65ac89f7d91c60b7e5c4f6e4bb47d886c8f1ee"
+    },
+    {
       "tag": "v0.17.0",
       "version": "0.17.0",
       "pub_date": "2026-11-27T09:33:47.194Z",
